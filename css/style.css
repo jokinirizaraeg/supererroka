@@ -152,10 +152,22 @@ a,
      transition: all .3s ease-in-out;
 }
 
-img {
+
+img{
+     max-width: 60%;
+     height: auto;
+     
+}
+.imgMain{
      max-width: 60%;
      height: auto;
      margin-left:27%;
+     
+}
+
+.imgShop {
+     max-width: 60%;
+     height: auto;
      
 }
 
